@@ -6,7 +6,7 @@
 dulezite
 ===
 
-- uvodni slovo
+- rozsirene uvodni slovo, lorem ipsum set dolor
 - prvni radek
 - druhy radek
 - prvni radek
