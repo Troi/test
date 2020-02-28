@@ -6,6 +6,7 @@
 dulezite
 ===
 
+- uvodni slovo
 - prvni radek
 - druhy radek
 - prvni radek
